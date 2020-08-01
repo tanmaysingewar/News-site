@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1px;
+}
+
+.search-field {
+    width: 90%;
+    padding: 10px;
+    border-radius: 8px;
+    outline: none;
+    font-size: 18px;
+    margin: 5px;
+    border: 3px solid white;
+    background-color: #f1f3f4;
+}
+
+.main-body {
+    margin: 5px;
+    border: 1px solid #dadce0;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.circle-logo-img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.card {
+    max-width: 501px;
+    margin: auto;
+}
+
+.header {
+    max-width: 501px;
+    margin: auto;
+}
+
+.id-name {
+    font-size: 15px;
+}
+
+.production-name {
+    font-size: 11px;
+    font-family: 'Mulish', sans-serif;
+    color: #333333;
+}
+
+.covid19-table-td {
+    font-family: 'Heebo', sans-serif;
+    font-size: 14px;
+    padding-left: 2px;
+}
+
+.covid-heading {
+    font-family: 'Varta', sans-serif;
+    /* padding-left: 15px; */
+    color: #333333;
+    font-size: 20px;
+}
+
+.covid19-table {
+    text-align: left;
+    /* padding-left: 15px; */
+    width: 40%;
+    border-radius: 5px;
+}
+
+a {
+    padding: 10px;
+    color: #3581ea;
+    text-decoration: none;
+}
+
+.menu-list {
+    position: relative;
+    display: inline-block;
+    border: 1px solid #dadce0;
+    margin: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.news-title {
+    font-size: 16px;
+}
+
+.news-desc {
+    font-size: 14px;
+    color: #535353;
+    font-family: arial, sans-serif;
+}
+
+.catagory-heading {
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.heading {
+    margin-left: 10px;
+    font-family: 'Recursive', sans-serif;
+    font-size: 20px;
+}
+
+.catagory-heading-style {
+    margin-left: 5px;
+    font-weight: 500;
+}
+
+.logo-name {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 35px;
+}
